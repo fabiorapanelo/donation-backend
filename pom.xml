@@ -32,7 +32,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    
+
     <modules>
         <module>config</module>
         <module>registry</module>
